@@ -1,0 +1,49 @@
+
+*************************************** Useful Tabs ***************************************
+
+TODO TAB - # TODO: Fix Bug
+Comment - CRTL + /
+Chane Position of RUN window
+
+*************************************** The Basics Of Editing *****************************
+
+Duplipcate Line : Place cursor on that line   	: CTRL + D
+Delete Line : Place cursor on that line 		: CTRL + Y
+Extended Selection : Place cursor on that line 	: CTRL + W (W - Word)
+Toggle Case : Select Word and 					: CTRL + SHIFT + U
+
+*************************************** Formatting Code ***********************************
+
+ReFormat Code : CTRL + ALT + L
+
+*************************************** Searching *****************************************
+
+Search Everywhere : Double SHIFT
+
+*************************************** Find in Place & Find Usages ***********************
+
+Find 		: CTRL + F
+Replace 	: CTRL + R
+
+Find in Files 		: CTRL + SHIFT + F
+Replace in Files 	: CTRL + SHIFT + F
+
+Find Usages 		:  Select Function/Variable name
+
+
+*************************************** Recent Files and Locations ************************
+*************************************** Structure *****************************************
+*************************************** Code Generation ***********************************
+*************************************** Code Extraction ***********************************
+
+Extract to a Variable 			: CTRL + ALT + V
+Extract to a Method 			: CTRL + ALT + M
+
+
+*************************************** Renaming ******************************************
+*************************************** Find and Replace **********************************
+*************************************** Keyboard Shortcuts ********************************
+*************************************** Testing *******************************************
+*************************************** Unit Testing **************************************
+*************************************** PyCharm and Git ***********************************
+*************************************** Wrap Up *******************************************
