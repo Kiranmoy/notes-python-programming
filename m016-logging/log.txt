@@ -1,8 +1,0 @@
-WARNING:root:warning Information
-ERROR:root:error Information
-CRITICAL:root:critical Information
-WARNING:root:warning Information
-ERROR:root:error Information
-CRITICAL:root:critical Information
-ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
-WARNING:Comm:No such comm: 77179891-b0fd-4181-a790-212cd76fdb93
